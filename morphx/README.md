@@ -58,6 +58,6 @@ csv_string = morph(users, to="csv")
 MIT License
 
 ## Автор
-[@busyaaa_1](https://github.com/busyaaa-1)
+[@busyaaa_1](https://github.com/busyaaa1)
 
 **Понравилось? Поставь звёздочку — это лучшая благодарность**

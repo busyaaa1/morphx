@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/busyaaa-1/morphx"
+Homepage = "https://github.com/busyaaa1/morphx"
 
 [tool.hatch.build.targets.wheel]
 packages = ["morphx"]
