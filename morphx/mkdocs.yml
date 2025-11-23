@@ -1,0 +1,5 @@
+site_name: morphx
+theme:
+  name: material
+nav:
+  - Home: index.md
